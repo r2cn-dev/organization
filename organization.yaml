@@ -1,3 +1,11 @@
 repos:
   - name: "benjamin-747/r2cn-bot-test"
     maintainers: ["benjamin-747"]
+  - name: "benjamin-747/empty"
+    maintainers: []
+
+noneProjectComment: >
+  Thanks for joining R2CN Projetc! You need to first submit a PR to modify the organization.yaml file to apply for your project to be included in the R2CN program.
+
+noneMaintainerComment: >
+  You do not have permission to apply for the R2CN internship tasks. Please contact your organization administrator to submit a PR and to update the R2CN organization.yaml file.
